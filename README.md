@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `Ansh Rajput`
+- **Full Name:** `Ansh`
 - **CCID:** `arajput3`
 
 ## References and Resources
